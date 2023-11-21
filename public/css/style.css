@@ -26,7 +26,7 @@
     height: 50px;
     font-size: 25px;
     cursor: pointer;
-    background-color: #00cc99; /* Verde-azulado */
+    background-color: #FFD700; /* Amarelo */
     border: none;
     color: white;
     margin: 3px;
@@ -45,9 +45,5 @@
     color: black;
     text-align: right;
     padding: 5px;
-}
-
-.reserva {
-    text-align: center;
 }
 

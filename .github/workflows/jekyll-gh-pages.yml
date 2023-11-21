@@ -38,10 +38,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
 
-
-
 # NPM Text Job
-npm-test: 
+  npm-test: 
     runs-on: ubuntu-latest
     needs: build 
     steps: 
